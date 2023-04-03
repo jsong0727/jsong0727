@@ -20,9 +20,9 @@ I'm Jiayin Song.
 - LinkedIn: [linkedin.com/in/songjiayin0727](https://www.linkedin.com/in/songjiayin0727/)
 - GitHub: [github.com/jsong0727](https://github.com/jsong0727)
 
+📈 GitHub Stats
 
-
-
+![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsong0727&show_icons=true&theme=radical)
 
 
 
