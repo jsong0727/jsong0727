@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jiayin Song.
+I'm Jamie(Jiayin) Song.
 
 ## About Me
 - 🌇 Based in Seattle, WA
